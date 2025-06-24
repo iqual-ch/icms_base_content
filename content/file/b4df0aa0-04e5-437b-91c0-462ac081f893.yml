@@ -1,0 +1,29 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b4df0aa0-04e5-437b-91c0-462ac081f893
+  default_langcode: de
+  depends:
+    d99e7252-4555-4701-a788-25befa086176: user
+default:
+  uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  filename:
+    -
+      value: Placeholder-iqual-CMS-schwarz.png
+  uri:
+    -
+      value: 'public://media/images/Placeholder-iqual-CMS-schwarz.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 823
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1750351752

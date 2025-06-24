@@ -1,0 +1,54 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: da923ff9-3c3a-4d38-998d-29b826b1036f
+  bundle: image
+  default_langcode: de
+  depends:
+    d99e7252-4555-4701-a788-25befa086176: user
+    b4df0aa0-04e5-437b-91c0-462ac081f893: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  name:
+    -
+      value: Placeholder-iqual-CMS-schwarz.png
+  created:
+    -
+      value: 1750351752
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| ICMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/de'
+  path:
+    -
+      alias: ''
+      langcode: de
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  field_media_image:
+    -
+      entity: b4df0aa0-04e5-437b-91c0-462ac081f893
+      alt: Placeholder-iqual-CMS-schwarz
+      title: ''
+      width: 2560
+      height: 1440

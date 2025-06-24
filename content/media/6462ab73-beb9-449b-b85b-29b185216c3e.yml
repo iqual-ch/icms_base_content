@@ -1,0 +1,60 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 6462ab73-beb9-449b-b85b-29b185216c3e
+  bundle: image
+  default_langcode: de
+  depends:
+    d99e7252-4555-4701-a788-25befa086176: user
+    dcbfbe1a-7bcb-4053-973c-d1645877f897: file
+default:
+  revision_user:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  name:
+    -
+      value: Placeholder-iqual-CMS.png
+  created:
+    -
+      value: 1750349848
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| ICMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/de'
+  path:
+    -
+      alias: ''
+      langcode: de
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  field_caption:
+    -
+      value: Placeholder-iqual-CMS
+  field_media_image:
+    -
+      entity: dcbfbe1a-7bcb-4053-973c-d1645877f897
+      alt: 'Placeholder iqual CMS'
+      title: ''
+      width: 2560
+      height: 1440

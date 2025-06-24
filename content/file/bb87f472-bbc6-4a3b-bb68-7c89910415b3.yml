@@ -1,0 +1,29 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: bb87f472-bbc6-4a3b-bb68-7c89910415b3
+  default_langcode: de
+  depends:
+    d99e7252-4555-4701-a788-25befa086176: user
+default:
+  uid:
+    -
+      entity: d99e7252-4555-4701-a788-25befa086176
+  filename:
+    -
+      value: Placeholder-iqual-CMS-grau.png
+  uri:
+    -
+      value: 'public://media/images/Placeholder-iqual-CMS-grau.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 823
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1750351752

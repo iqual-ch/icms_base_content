@@ -1,0 +1,68 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: d99e7252-4555-4701-a788-25befa086176
+  default_langcode: de
+default:
+  preferred_langcode:
+    -
+      value: en
+  preferred_admin_langcode:
+    -
+      value: de
+  name:
+    -
+      value: test
+  pass:
+    -
+      value: $2y$10$6l57sTtOVYL66mBhSYgOBOLrPgeN6U1U6YBR889I1LFW4rrzf8RaO
+      existing: ''
+      pre_hashed: false
+  mail:
+    -
+      value: test@iqual.ch
+  timezone:
+    -
+      value: Europe/Zurich
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1748007035
+  access:
+    -
+      value: 1750680961
+  login:
+    -
+      value: 1750062461
+  init:
+    -
+      value: test@iqual.ch
+  roles:
+    -
+      target_id: content_editor
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'test | ICMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: ICMS
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'http://default/de/user/17'
+  role_change:
+    -
+      target_id: __role_delegation_empty_field_value__
+  path:
+    -
+      alias: ''
+      langcode: de
+      pathauto: 0

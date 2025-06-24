@@ -1,0 +1,15 @@
+{
+  "name": "iqual/icms_base_content",
+  "type": "drupal-recipe",
+  "description": "Provide default shared content for ICMS (used by other content recipes).",
+  "keywords": ["ICMS", "content", "recipe", "Drupal recipes", "drupal recipe"],
+  "license": ["GPL-2.0-or-later"],
+  "minimum-stability": "dev",
+  "support": {
+    "source": "https://github.com/iqual-ch/blokkli-starterkit-sw-experiment"
+  },
+  "require": {
+    "iqual/icms_core": "^1.0"
+  },
+  "version": "1.x-dev"
+}
