@@ -3,10 +3,12 @@ _meta:
   entity_type: user
   uuid: d99e7252-4555-4701-a788-25befa086176
   default_langcode: de
+  depends:
+    45e7410a-2d21-4e9c-aa6d-a73bc69990ba: file
 default:
   preferred_langcode:
     -
-      value: en
+      value: de
   preferred_admin_langcode:
     -
       value: de
@@ -32,10 +34,10 @@ default:
       value: 1748007035
   access:
     -
-      value: 1750680961
+      value: 1752156571
   login:
     -
-      value: 1750062461
+      value: 1751354921
   init:
     -
       value: test@iqual.ch
@@ -47,7 +49,7 @@ default:
       tag: meta
       attributes:
         name: title
-        content: 'test | ICMS'
+        content: 'Test User | ICMS'
     -
       tag: meta
       attributes:
@@ -57,7 +59,7 @@ default:
       tag: link
       attributes:
         rel: canonical
-        href: 'http://default/de/user/17'
+        href: 'https://starterkit.ddev.site/de/user/17'
   role_change:
     -
       target_id: __role_delegation_empty_field_value__
@@ -66,3 +68,16 @@ default:
       alias: ''
       langcode: de
       pathauto: 0
+  field_user_first_name:
+    -
+      value: Test
+  field_user_last_name:
+    -
+      value: User
+  user_picture:
+    -
+      entity: 45e7410a-2d21-4e9c-aa6d-a73bc69990ba
+      alt: ''
+      title: ''
+      width: 250
+      height: 250

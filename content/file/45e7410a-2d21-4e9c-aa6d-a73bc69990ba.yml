@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 45e7410a-2d21-4e9c-aa6d-a73bc69990ba
+  default_langcode: de
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: iqual-logo-test.png
+  uri:
+    -
+      value: 'public://pictures/2025-07/iqual-logo-test.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1684
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1752156556
