@@ -19,7 +19,7 @@ default:
       entity: d99e7252-4555-4701-a788-25befa086176
   name:
     -
-      value: Placeholder-iqual-CMS.png
+      value: Placeholder-iqual-CMS-3.jpg
   created:
     -
       value: 1750349848
@@ -41,7 +41,7 @@ default:
     -
       alias: ''
       langcode: de
-      pathauto: 0
+      pathauto: 1
   content_translation_source:
     -
       value: und
@@ -50,11 +50,11 @@ default:
       value: false
   field_caption:
     -
-      value: Placeholder-iqual-CMS
+      value: 'Placeholder iqual CMS 3'
   field_media_image:
     -
       entity: dcbfbe1a-7bcb-4053-973c-d1645877f897
-      alt: 'Placeholder iqual CMS'
+      alt: 'Placeholder iqual CMS 3'
       title: ''
-      width: 2560
-      height: 1440
+      width: 1920
+      height: 1280

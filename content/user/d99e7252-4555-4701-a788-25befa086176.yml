@@ -67,7 +67,7 @@ default:
     -
       alias: ''
       langcode: de
-      pathauto: 0
+      pathauto: 1
   field_user_first_name:
     -
       value: Test

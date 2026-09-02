@@ -16,7 +16,7 @@ default:
       entity: d99e7252-4555-4701-a788-25befa086176
   name:
     -
-      value: Placeholder-iqual-CMS-grau.png
+      value: Placeholder-iqual-CMS-2.jpg
   created:
     -
       value: 1750351752
@@ -38,7 +38,7 @@ default:
     -
       alias: ''
       langcode: de
-      pathauto: 0
+      pathauto: 1
   content_translation_source:
     -
       value: und
@@ -48,7 +48,7 @@ default:
   field_media_image:
     -
       entity: bb87f472-bbc6-4a3b-bb68-7c89910415b3
-      alt: Placeholder-iqual-CMS-grau
+      alt: 'Placeholder iqual CMS 2'
       title: ''
-      width: 2560
-      height: 1440
+      width: 1920
+      height: 1280

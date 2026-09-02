@@ -11,16 +11,16 @@ default:
       entity: d99e7252-4555-4701-a788-25befa086176
   filename:
     -
-      value: Placeholder-iqual-CMS-grau.png
+      value: Placeholder-iqual-CMS-2.jpg
   uri:
     -
-      value: 'public://media/images/Placeholder-iqual-CMS-grau.png'
+      value: 'public://media/images/Placeholder-iqual-CMS-2.jpg'
   filemime:
     -
-      value: image/png
+      value: image/jpeg
   filesize:
     -
-      value: 823
+      value: 444671
   status:
     -
       value: true
