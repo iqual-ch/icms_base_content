@@ -15,11 +15,6 @@ default:
   name:
     -
       value: test
-  pass:
-    -
-      value: $2y$10$6l57sTtOVYL66mBhSYgOBOLrPgeN6U1U6YBR889I1LFW4rrzf8RaO
-      existing: ''
-      pre_hashed: false
   mail:
     -
       value: test@iqual.ch
